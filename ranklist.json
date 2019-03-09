@@ -1,0 +1,72 @@
+var jsonData = [
+        {
+            "rank": "1",
+            "username": "Mike",
+            "score": "18115230",
+            "levals": "21",
+            "date": "2016/9/17 15:03"
+        },
+        {
+            "rank": "2",
+            "username": "Army",
+            "score": "1642310",
+            "levals": "20",
+            "date": "2016/9/17 15:03"
+        },
+        {
+            "rank": "3",
+            "username": "Wlan",
+            "score": "1132310",
+            "levals": "19",
+            "date": "2016/9/17 15:03"
+        },
+        {
+            "rank": "4",
+            "username": "Kennedy",
+            "score": "1122310",
+            "levals": "12",
+            "date": "2016/9/17 15:03"
+        },
+        {
+            "rank": "5",
+            "username": "May",
+            "score": "1112130",
+            "levals": "23",
+            "date": "2016/9/17 15:03"
+        },
+        {
+            "rank": "6",
+            "username": "Michelle",
+            "score": "1102230",
+            "levals": "20",
+            "date": "2016/9/17 15:03"
+        },
+        {
+            "rank": "7",
+            "username": "Gemma",
+            "score": "192130",
+            "levals": "10",
+            "date": "2016/9/17 15:03"
+        },
+        {
+            "rank": "8",
+            "username": "Louis",
+            "score": "182330",
+            "levals": "9",
+            "date": "2016/9/17 15:03"
+        },
+        {
+            "rank": "9",
+            "username": "Yetta",
+            "score": "172430",
+            "levals": "9",
+            "date": "2016/9/17 15:03"
+        },
+        {
+            "rank": "10",
+            "username": "William",
+            "score": "162430",
+            "levals": "9",
+            "date": "2016/9/17 15:03"
+        }
+    ]
